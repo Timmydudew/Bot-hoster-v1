@@ -47,9 +47,9 @@ lagi=1
 while [ $lagi -lt 30 ];
 do
 echo ""
-echo   "1. Secktor";
+echo   "1. MIKU";
 echo $b"============================" | lolcat
-echo   "2. Miku";
+echo   "2. ATLAS";
 echo $u"============================" | lolcat
 echo   "3. Atlas";
 echo $u"============================" | lolcat
@@ -57,3 +57,32 @@ echo   "4. Babybot";
 echo $b"============================" | lolcat
 echo   "5. Gojo-Satoru";
 echo $u"============================" | lolcat
+
+#Miku
+
+case $pil in
+1) clear
+toilet -f standard " BLANK " -F gay
+git clone https://github.com/FantoX001/Miku-MD
+cd Miku-MD
+npm i
+npm start
+
+
+;;
+
+#atlas
+2) clear
+toilet -f standard " BLANK " -F gay
+git clone https://github.com/FantoX001/Atlas-MD
+cd Atlas-MD
+npm i
+npm start
+
+
+;;
+
+#
+
+
+
