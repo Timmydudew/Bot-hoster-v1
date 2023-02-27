@@ -16,12 +16,12 @@
 |   ragnarock hosting    |       ✅    |
 |   Secktor hosting   |       ✅      |
     
-I am still updating tool please star
+###### I am still updating tool please star
 <br>
 <br>
 
 
-# 📫 How to reach me to contributeon:
+# 📫 How to reach me to contribute on this tool:
 [![Via WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=blue)](https://wa.me/2348050261876?text=Hi%20I%20Am%20From%20GitHub%20i%20i%20want%20to%20contribute%20in%20ur%20recent%20project)
 <br>
 </p>
