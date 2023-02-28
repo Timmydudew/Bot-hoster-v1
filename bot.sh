@@ -53,10 +53,8 @@ echo   "2. ATLAS";
 echo $u"============================" | lolcat
 echo   "3. BABYBOT";
 echo $u"============================" | lolcat
-echo   "4. Vihangbot";
+echo   "4. Gojo-Satoru";
 echo $b"============================" | lolcat
-echo   "5. Gojo-Satoru";
-echo $u"============================" | lolcat
 
 #Miku
 
@@ -80,7 +78,6 @@ npm i
 npm start
 
 
-
 ;;
 
 #babybot
@@ -91,4 +88,14 @@ cd BABY-BOT-V13
 npm install
 npm start
 
+
+
+;;
+
+#Gojosataru
+3) clear
+toilet -f standard " BLANK " -F gay
+git clone https://github.com/nexusNw/Gojo-Satoru
+> cd Gojo-Satoru
+> npm install
 
