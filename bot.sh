@@ -51,9 +51,9 @@ echo   "1. MIKU";
 echo $b"============================" | lolcat
 echo   "2. ATLAS";
 echo $u"============================" | lolcat
-echo   "3. Atlas";
+echo   "3. BABYBOT";
 echo $u"============================" | lolcat
-echo   "4. Babybot";
+echo   "4. Vihangbot";
 echo $b"============================" | lolcat
 echo   "5. Gojo-Satoru";
 echo $u"============================" | lolcat
@@ -80,9 +80,15 @@ npm i
 npm start
 
 
+
 ;;
 
-#
-
+#babybot
+3) clear
+toilet -f standard " BLANK " -F gay
+git clone https://github.com/mrjuice01/BABY-BOT-V13
+cd BABY-BOT-V13
+npm install
+npm start
 
 
