@@ -6,7 +6,10 @@
 <br>
 <br>
 
-Coded by Mr JT
+Coded by JT
+
+[![Timmy](https://github.com/Timmydudew.png?size=300)](https://github.com/Timmydudew)
+
 # Follow My Accounts Below
 
 <p align="center">
@@ -57,11 +60,8 @@ Coded by Mr JT
 | :------: |  :----------: |
 |   MIKU hosting    |       ✅     |
 |   Atlas hosting     |       ✅     |
-|   Baymax hosting    |       ✅    |
 |   Baby bot hosting    |       ✅     |
 |   gojosataru hosting  |       ✅     |
-|   ragnarock hosting    |       ✅    |
-|   Secktor hosting   |       ✅      |
     
 ###### I am still updating tool please star
 <br>
@@ -73,3 +73,10 @@ Coded by Mr JT
 <br>
 </p>
 </div>
+
+### contributor
+
+<center>
+
+[![Timmy](https://github.com/Timmydudew.png?size=200)](https://github.com/Timmydudew)
+</center>
