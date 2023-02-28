@@ -89,13 +89,18 @@ npm install
 npm start
 
 
-
 ;;
 
 #Gojosataru
 3) clear
 toilet -f standard " BLANK " -F gay
 git clone https://github.com/nexusNw/Gojo-Satoru
-> cd Gojo-Satoru
-> npm install
+cd Gojo-Satoru
+npm install
+npm start
+
+
+
+;;
+
 
